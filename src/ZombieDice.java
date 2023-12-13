@@ -75,13 +75,5 @@ public class ZombieDice extends Dice {
         ZombieDice.nFeet = nFeet;
     }
 
-    @Override
-    public String getCurrentColor() {
-        return currentColor;
-    }
 
-    @Override
-    public void setCurrentColor(String currentColor) {
-        this.currentColor = currentColor;
-    }
 }

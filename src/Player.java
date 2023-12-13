@@ -11,8 +11,6 @@ public class Player {
 
     Random random = new Random();
 
-    public Player() {
-    }
 
     public Player(String name) {
         this.name = name;
