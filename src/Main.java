@@ -25,6 +25,10 @@ public class Main {
             item.rollDice();
             sortPlayerList.add(item.getNumberOfDice());
             item.setGetDiceAfterRoll(item.getNumberOfDice());
+<<<<<<< HEAD
+=======
+            System.out.println(item);
+>>>>>>> e45b6868297e5b21b04c3a5dfd1915f4e5cf1c3a
         }
 
        do{
